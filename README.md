@@ -1,5 +1,7 @@
 # Self-Portrait-Assignment-For-Artistry-Design
-This project is a graphical application developed in Python using the Turtle graphics library. It demonstrates mastery of basic program structure, naming conventions, and styling, while incorporating fundamental graphical logic to render complex shapes through procedural commands.
+This project is a graphical application developed in Python using the Turtle graphics library. It demonstrates mastery of basic program structure, naming conventions, and styling, while incorporating fundamental graphical logic to render complex shapes through procedural commands. This assignment simulates real-world applications of procedural graphics in game development, UI prototyping, and educational visualization tools.
+
+
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
